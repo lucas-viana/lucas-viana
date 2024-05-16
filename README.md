@@ -13,8 +13,7 @@
 </div</br>
 
 ## Sobre mim
-Atualmente tenho 25 anos, sou estudante do curso bacharelado de Sistemas de Informação no 3° período pelo IFSULDEMINAS - Campus Machado, sou apaixonado por tecnologia e busco através do meu conhecimento agregar de alguma forma na vida das pessoas. Atualmente gosto muito de estudar backend e meu foco tem sido dominar as tecnologias da plataforma .Net.
-Gosto de ajudar as pessoas e busco ter o máximo possivel de proatividade, desta forma procuro ajudar o maximo possivel dos meus colegas de faculdade dando monitorias de linguagens e algoritmos nas horas vagas.
+Graduando do 3° período de Sistemas de Informação, pelo IFSULDEMINAS - Campus Machado. Sempre fui apaixonado por tecnologia e hoje, com 25 anos, busco através do meu conhecimento auxiliar e agregar valor de alguma forma a vida das pessoas. Devido a essa facilidade e gosto em ajudar as pessoas, me tornei monitor das disciplinas de Linguagens de Programação e Algoritmo do curso, o que me possibilitou auxiliar na fixação do conteúdo de alguns colegas com mais dificuldade, criar mais conexões e revisar conteúdos já estudados por mim, desenvolvendo ainda mais meu autodidatismo. Ultimamente tenho me encontrado bastante no Backend e, por isso, venho voltando meus estudos para a área, e meu foco, em específico, tem sido dominar as tecnologias da plataforma .Net. Durante toda minha vida eu sempre gostei e me senti bem em prestar auxílio às pessoas, busco sempre aproveitar ao máximo o meu tempo para alcançar o máximo de produtividade.
 
 ## Contatos
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whithe)](https://www.linkedin.com/in/lucas-viana-dev/) 
