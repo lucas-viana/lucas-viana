@@ -1,8 +1,8 @@
 ### Bem vindo, eu sou o Lucas Viana 👨🏾‍💻
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucas-viana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucas-viana&layout=compact&langs_count=20&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucas-viana&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-viana&langs_count=8&layout=compact&theme=dark"/>
 </div>
 
 ## Tecnologias com que trabalho
