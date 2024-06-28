@@ -4,8 +4,6 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucas-viana&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-viana&langs_count=8&layout=compact&theme=dark"/>
 </div>
-
-## Tecnologias com que trabalho
 <div style= "display: inline_block"><br/>
     <img align= "center" alt=".NetCore" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
     <img align= "center" alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> 
